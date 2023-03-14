@@ -13,7 +13,7 @@ class TestMyHigherOrLower(TestCase):
     """
     Ideas:
     1. Проверить количесво кард в колоде(листе) == 52 +
-    2. Проверить на повторения
+    2. Проверить на повторения+
     3. Check same value different suits.+
     3 сценария возвращают 20/ 10 False 9 & 1 True 2 & 9 True 9
     3 сценария возващают -15/ 10 True > 9 & 1 False > 1 & 9 False 9
